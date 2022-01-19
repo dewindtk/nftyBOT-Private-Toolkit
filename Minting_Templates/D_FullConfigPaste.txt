@@ -1,0 +1,16 @@
+[mint]
+mode = "Flashbots"
+contract_address = "0xcBC67Ea382F8a006d46EEEb7255876BeB7d7f14d"
+function = "mint(uint256,bytes)"
+arguments = [{ type = "Uint", value = 9 }, { type = "Bytes", value = "0x00" }]
+value = 0.72e18
+gas_fee = GASGAS
+priority_fee = GASGAS
+gas_limit = 350_000
+
+
+# I always run Flashbots, fails are free.
+# Usually when you have to input the price and tokenCount when minting from contract, 
+#	it suffices to have { type = "Uint", value = 9 } for the Tokencount as arguments
+#	and the below 'Value' for the mint cost.
+# Quite easy to play around with. If there is a mistake, the bot will not run and give you back the error.

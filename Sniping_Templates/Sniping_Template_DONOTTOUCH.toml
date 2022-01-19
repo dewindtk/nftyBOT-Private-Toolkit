@@ -1,0 +1,35 @@
+[account]
+private_key = "YOURPRIVATEKEYHERE"
+dry_run = false
+simulate = false
+
+[global]
+mode = "Limit"
+proxy_url = "YOURPROXYADDRESSES"
+provider_url = "wss://eth-ws.721.gg"
+flashbots_signer = ""
+relays = [
+    "https://relay.flashbots.net",
+    "https://mev-relay.ethermine.org",
+    "https://api.taichi.network:10001/rpc/public",
+    "https://api.edennetwork.io/v1/bundle",
+    "https://bundle.miningdao.io"
+]
+
+[opensea]
+api = "GraphQL"
+api_key = ""
+smart_gas = "Disabled"
+estimate_gas = false
+gas_fee = INPUTMAXGAS
+priority_fee = INPUTMAXPRIO
+gas_limit = 250_000
+maximum_retry_attempts = 2
+
+[opensea.limit]
+mode = "Collection"
+collections = [
+    { slug = "INPUTSLUG", minimum_price = 0, maximum_price = INPUTTARGET, traits = [] }
+]
+token_id = ""
+contract_address = ""

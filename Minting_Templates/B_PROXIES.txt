@@ -1,0 +1,9 @@
+http://user:pass@ip:port
+http://user:pass@ip:port
+					(Leave Blank for none)
+http://user:pass@ip:port
+					(Leave Blank for none)
+					(Leave Blank for none)
+http://user:pass@ip:port
+http://user:pass@ip:port
+etc..
