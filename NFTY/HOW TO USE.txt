@@ -47,5 +47,6 @@ PLease do not change the folder name after unzipping
 		or your wallet runs out of eth. Never put more eth than your target price + transfer gas if you do not wish that.
 
 -Feel free to modify the code. It's simple python whcih you can play around with if you do not like smt :]
+Donations to kaikun.eth pls JHHAHHHAHA
 
 Kai 
