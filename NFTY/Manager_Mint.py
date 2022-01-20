@@ -65,7 +65,7 @@ print("You are paying for Wallets:")
 print(INPUTWallets)
 print("At prices:")
 print(priceTargets)
-print("Which is equivalent to Gas Limits:")
+print("Which is equivalent to Gas spent:")
 print(GASGAS)
 
 # Confirmation message
