@@ -1,1 +1,1 @@
-start cmd.exe /c "python Distribute_DONOTTOUCH.py"
+start cmd.exe /k "python Distribute_Sniping_DONOTTOUCH.py"
