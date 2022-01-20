@@ -3,6 +3,7 @@ of the bot itself is hidden behund an executable. Proceed on your own risk and u
 This toolkit supports up to 9 wallets. Not more in this current build.
 
 Please Simply download the entire folder, unzip to start using :]
+PLease do not change the folder name after unzipping
 
 -First, fill in your nfty credentials in credentials.toml. Your Token ID and private key which holds the token.
 -Replace the nfty.exe with the lateset version on their disocrd.
