@@ -1,5 +1,5 @@
 This Toolkit only works on Windows. It uses nfty.exe, nftyBOT. I cannot guarantee the safety of your Private keys as the code 
-of the bot itself is hidden behund an executable. Proceed on your own risk and use alt wallets.
+of the bot itself is hidden behind an executable. Proceed on your own risk and use alt wallets.
 This toolkit supports up to 9 wallets. Not more in this current build.
 
 Please Simply download the entire folder, unzip to start using :]
