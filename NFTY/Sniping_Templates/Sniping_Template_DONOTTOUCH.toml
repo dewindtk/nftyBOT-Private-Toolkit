@@ -4,7 +4,7 @@ dry_run = false
 simulate = false
 
 [global]
-mode = "Limit"
+mode = "OpenSeaLimit"
 proxy_url = "YOURPROXYADDRESSES"
 provider_url = "wss://eth-ws.721.gg"
 flashbots_signer = ""
