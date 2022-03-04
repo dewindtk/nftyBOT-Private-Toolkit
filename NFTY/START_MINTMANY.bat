@@ -1,0 +1,1 @@
+start cmd.exe /k "python Manager_MintMany.py"
